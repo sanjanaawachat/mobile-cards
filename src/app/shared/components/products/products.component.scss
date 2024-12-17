@@ -1,0 +1,25 @@
+
+.mobilecard {
+ background-color: rgb(240, 231, 240);
+    color: rgb(5, 58, 68);
+.mobileimg{
+    height: 300px;
+    object-fit: cover;
+    width: 100%;
+}}
+.striked {
+    text-decoration: line-through;
+  }
+  .noImgmsg {
+    font-size: larger;
+    text-transform: capitalize;
+    background-color: rgb(239, 221, 221);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .notaval {
+    filter: grayscale(1) blur(1px);
+  }
+
+  
